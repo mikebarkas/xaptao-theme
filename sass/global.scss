@@ -1,0 +1,14 @@
+// Import settings and project mixins
+@import "base";
+
+
+/* ==================
+ *	Project Styles
+ * =============== */
+html {
+	background: $page;
+}
+
+body {
+	font-family: $sans-serif;
+}

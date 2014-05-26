@@ -8,8 +8,11 @@
  }
 
  function xaptao_preprocess_page(&$vars) {
+ 	$sitename = variable_get('site_name');
+ 	$siteslogan = variable_get('site_slogan');
+
  	// Libraries
- 	
+
 
  }
 
