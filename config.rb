@@ -21,4 +21,4 @@ relative_assets = true
 
 
 ## Sass OPtions ##
-sass_options = (environment == :develoment) ? {:debug_info => true} : {:always_update => true}
+sass_options = (environment == :develoment) ? {:debug_info => false} : {:always_update => true}
