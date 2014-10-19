@@ -9,6 +9,7 @@ regions[help] = Help
 regions[sidebar] = Sidebar
 regions[content] = Content
 regions[footer] = Footer
+regions[overlay] = Overlay
 
 ; Stylesheets
 stylesheets[all][] = css/global.css
