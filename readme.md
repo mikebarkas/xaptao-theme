@@ -2,4 +2,6 @@
 
 Drupal 7 Theme
 
-*by Mike Barkas*
+Base theme for front-end developers.
+
+*under development*
