@@ -1,24 +1,26 @@
-## Configuration for Compass/Sass ##
+#
+# Configuration for Compass/Sass
+#
 
-## Environment Variable ##
+# Environment Variable
 environment = :develoment
 #environment = :production
 
 
-## Directory Structure ##
+# Directory Structure
 css_dir = "css"
 sass_dir = "sass"
 images_dir = "css/images"
 
 
-## Output Style ##
+# Output Style
 # Options - :expanded :nested :compact :compressed
 output_style = (enviroment == :develoment) ? :expanded : :compressed
 
 
-## Enable Relative Paths ##
+# Enable Relative Paths
 relative_assets = true
 
 
-## Sass OPtions ##
+# Sass Options
 sass_options = (environment == :develoment) ? {:debug_info => false} : {:always_update => true}
